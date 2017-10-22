@@ -44,5 +44,5 @@ En Slack hay diferentes formas de mencionar a una persona, grupo o canal. Según
   ***@here* envía una notificación a todos los miembros que estén en línea en el canal en el que lo uses**. <br />
   Cuando estas menciones se usan de manera inadecuada pueden ser molestas, por lo que si eres administrador del grupo en Slack, podrás   limitar su uso. <br /><br />
   
-  >Cuando estas menciones se usan de manera inadecuada pueden ser molestas, por lo que si eres administrador del grupo en Slack, podrás limitar su uso.
+>Cuando estas menciones se usan de manera inadecuada pueden ser molestas, por lo que si eres administrador del grupo en Slack, podrás limitar su uso.
 
