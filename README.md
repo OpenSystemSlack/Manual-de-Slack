@@ -35,7 +35,7 @@ En Slack hay diferentes formas de mencionar a una persona, grupo o canal. Según
 * __Mensajes libres:__ En cualquier canal, grupo o mensaje directo de Slack puedes escribir lo que desees para que sea leído por quienes estén registrados en el canal. Cuando un canal o grupo tiene un mensaje nuevo se verá resaltado en negrilla en la barra lateral.
 
 * __Mencionar un usuario:__ cuando hablas en un espacio grupal como los canales o los grupos, puedes dirigir algún mensaje público a un usuario mencionándolo con el signo arroba **(@)** y su nombre de usuario, por ejemplo **@nombreusuario**.
-Cuando un usuario es mencionado Slack le envía una notificación y puedes ver el número de menciones encerrado en un recuadro al lado del canal, grupo o usuario de mensaje directo correspondiente.
+>Cuando un usuario es mencionado Slack le envía una notificación y puedes ver el número de menciones encerrado en un recuadro al lado del canal, grupo o usuario de mensaje directo correspondiente.
 
 * __Menciones especiales:__ En un canal o grupo puedes usar las menciones especiales para determinados anuncios: <br /><br />
   ***@channel* envía una notificación a todos los miembros en el canal en el que lo uses**. <br /><br />
@@ -43,4 +43,6 @@ Cuando un usuario es mencionado Slack le envía una notificación y puedes ver e
   Normalmente se usan en canales públicos como el #general. <br /><br />
   ***@here* envía una notificación a todos los miembros que estén en línea en el canal en el que lo uses**. <br />
   Cuando estas menciones se usan de manera inadecuada pueden ser molestas, por lo que si eres administrador del grupo en Slack, podrás   limitar su uso. <br /><br />
+  
+  >Cuando estas menciones se usan de manera inadecuada pueden ser molestas, por lo que si eres administrador del grupo en Slack, podrás limitar su uso.
 
