@@ -16,15 +16,31 @@ En Slack hay diferentes formas de mencionar a una persona, grupo o canal. Según
 
 
 
-* **CANALES:** Son espacios de comunicación abierta donde puedes compartir lo que desees con quienes estén en el canal. Se identifican con el símbolo hashtag (#) antes del nombre.
+* __CANALES:__ Son espacios de comunicación abierta donde puedes compartir lo que desees con quienes estén en el canal. Se identifican con el símbolo hashtag **(#)** antes del nombre.
 
-* **GRUPOS:** Son espacios privados que cualquier usuario puede crear e invitar a quienes desee para discutir en un canal abierto solo al equipo. Están visibles en la barra lateral solo para quienes pertenezcan al grupo y se identifican con un ícono de candado a su lado.
+* __GRUPOS:__ Son espacios privados que cualquier usuario puede crear e invitar a quienes desee para discutir en un canal abierto solo al equipo. Están visibles en la barra lateral solo para quienes pertenezcan al grupo y se identifican con un ícono de candado a su lado.
 
 ![SlackCanales](/imagenes/SlackCanales.png)
 
-* **MENSAJES DIRECTOS:** Son conversaciones hechas uno a uno con un usuario.
+* __MENSAJES DIRECTOS:__ Son conversaciones hechas uno a uno con un usuario. Solo debes buscarlo en el menú lateral y hacer clic sobre su nombre o buscarlo usando el signo más **(+)**.
+
 >Si al lado del nombre de un usuario ves un circulo lleno es porque el usuario está en línea, si ves un círculo vacío es porque no lo está.
 
 ![MsjSlack](/imagenes/MsjSlack.png)
 
 ## CÓMO HABLAR CON TU EQUIPO EN SLACK
+
+### Existen algunas claves básicas para hablar con otros usuarios en Slack.
+
+* __Mensajes libres:__ En cualquier canal, grupo o mensaje directo de Slack puedes escribir lo que desees para que sea leído por quienes estén registrados en el canal. Cuando un canal o grupo tiene un mensaje nuevo se verá resaltado en negrilla en la barra lateral.
+
+* __Mencionar un usuario:__ cuando hablas en un espacio grupal como los canales o los grupos, puedes dirigir algún mensaje público a un usuario mencionándolo con el signo arroba **(@)** y su nombre de usuario, por ejemplo **@nombreusuario**.
+Cuando un usuario es mencionado Slack le envía una notificación y puedes ver el número de menciones encerrado en un recuadro al lado del canal, grupo o usuario de mensaje directo correspondiente.
+
+* __Menciones especiales:__ En un canal o grupo puedes usar las menciones especiales para determinados anuncios: <br /><br />
+  ***@channel* envía una notificación a todos los miembros en el canal en el que lo uses**. <br /><br />
+  ***@everyone* envía una notificación a todos los miembros del equipo**. <br />
+  Normalmente se usan en canales públicos como el #general. <br /><br />
+  ***@here* envía una notificación a todos los miembros que estén en línea en el canal en el que lo uses**. <br />
+  Cuando estas menciones se usan de manera inadecuada pueden ser molestas, por lo que si eres administrador del grupo en Slack, podrás   limitar su uso. <br /><br />
+
