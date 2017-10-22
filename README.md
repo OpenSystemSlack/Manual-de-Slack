@@ -1,1 +1,1 @@
-# Manual-de-Slack
+# Manual de Slack
