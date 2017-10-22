@@ -1,7 +1,7 @@
 ![imagen inicial](/imagenes/slack.png)
 >Puede descarcar la aplicacion de escritorio desde este link https://slack.com/intl/es/downloads/windows
 
-# MANUAL
+# GUIA
 ## ¿QUE ES SLACK?
 Cuando se trabaja en remoto y con un equipo de cualquier tamaño, da igual si son sólo dos o más integrantes, lo más importante es la comunicación. Tener un sistema que permite preguntar, compartir y resolver cualquier cuestión es fundamental y es donde aparece Slack, es una herramienta de mensajería pensada para equipos, permite crear grupos a los que accederán los diferentes miembros para poder estar comunicados todos, como si estuviesen en la misma oficina.
 
