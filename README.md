@@ -41,10 +41,9 @@ En Slack hay diferentes formas de mencionar a una persona, grupo o canal. Según
   ***@channel* envía una notificación a todos los miembros en el canal en el que lo uses**. <br /><br />
   ***@everyone* envía una notificación a todos los miembros del equipo**. <br />
   Normalmente se usan en canales públicos como el #general. <br /><br />
-  ***@here* envía una notificación a todos los miembros que estén en línea en el canal en el que lo uses**. <br />
-  Cuando estas menciones se usan de manera inadecuada pueden ser molestas, por lo que si eres administrador del grupo en Slack, podrás   limitar su uso. <br /><br />
+  ***@here* envía una notificación a todos los miembros que estén en línea en el canal en el que lo uses**. 
   
->Cuando estas menciones se usan de manera inadecuada pueden ser molestas, por lo que si eres administrador del grupo en Slack, podrás limitar su uso.
+ >Cuando estas menciones se usan de manera inadecuada pueden ser molestas, por lo que si eres administrador del grupo en Slack, podrás limitar su uso.
 
 ## OPERACIONES BÁSICAS PARA COLABORAR EN SLACK
 
