@@ -47,9 +47,10 @@ En Slack hay diferentes formas de mencionar a una persona, grupo o canal. Según
 ### El funcionamiento de Slack va más allá de los mensajes; son las demás características las que potencian la capacidad de colaboración.
 
 * __Compartir enlaces:__ Con solo copiar y pegar un enlace en Slack aparecerá una versión corta del mismo.
-![Enzale](/imagenes/EnlaceCompartido.png)
+![Enlaze](/imagenes/EnlaceCompartido.png)
 
 * __Compartir imágenes y archivos:__ para compartir imágenes o archivos solo es necesario arrastrarlos desde tu navegador de archivos al canal, grupo o mensaje donde desees compartirlo. O puedes usar el botón con el signo más **(+)** que hay al lado de la casilla de mensajes.
+![ImagenCompartida](/imagenes/ImagenCompartida1.png)
  >Si el archivo es una imagen podrás verla en Slack y además para cualquier archivo podrás hacer comentarios específicos.
  
 * __Pegar desde el portapapeles:__ Esta es una de las mejores funcionalidades que tiene Slack si deseas compartir la captura de pantalla, o una imagen cualquiera solo debes copiar y pegar en la conversación de Slack.
