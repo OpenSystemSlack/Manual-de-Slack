@@ -44,7 +44,7 @@ En Slack hay diferentes formas de mencionar a una persona, grupo o canal. Según
 
 ## OPERACIONES BÁSICAS PARA COLABORAR EN SLACK
 
-### El poder de Slack va más allá de los mensajes; son las demás características las que potencian la capacidad de colaboración.
+### El funcionamiento de Slack va más allá de los mensajes; son las demás características las que potencian la capacidad de colaboración.
 
 * __Compartir enlaces:__ Con solo copiar y pegar un enlace en Slack aparecerá una versión corta del mismo.
 
