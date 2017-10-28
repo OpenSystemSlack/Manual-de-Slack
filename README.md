@@ -20,7 +20,7 @@ En Slack hay diferentes formas de mencionar a una persona, grupo o canal. Según
 
 * __GRUPOS:__ Son espacios privados que cualquier usuario puede crear e invitar a quienes desee para discutir en un canal abierto solo al equipo. Están visibles en la barra lateral solo para quienes pertenezcan al grupo y se identifican con un ícono de candado a su lado.
 
-![SlackCanales](/imagenes/Canales1.png)
+![SlackCanales](/imagenes/Canales.png)
 
 * __MENSAJES DIRECTOS:__ Son conversaciones hechas uno a uno con un usuario. Solo debes buscarlo en el menú lateral y hacer clic sobre su nombre o buscarlo usando el signo más **(+)**.
 
