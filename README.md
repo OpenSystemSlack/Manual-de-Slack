@@ -20,13 +20,13 @@ En Slack hay diferentes formas de mencionar a una persona, grupo o canal. Según
 
 * __GRUPOS:__ Son espacios privados que cualquier usuario puede crear e invitar a quienes desee para discutir en un canal abierto solo al equipo. Están visibles en la barra lateral solo para quienes pertenezcan al grupo y se identifican con un ícono de candado a su lado.
 
-![SlackCanales](/imagenes/SlackCanales.png)
+![SlackCanales](/imagenes/Canales.png)
 
 * __MENSAJES DIRECTOS:__ Son conversaciones hechas uno a uno con un usuario. Solo debes buscarlo en el menú lateral y hacer clic sobre su nombre o buscarlo usando el signo más **(+)**.
 
 >Si al lado del nombre de un usuario ves un circulo lleno es porque el usuario está en línea, si ves un círculo vacío es porque no lo está.
 
-![MsjSlack](/imagenes/MsjSlack.png)
+![MsjSlack](/imagenes/MensajesDirectos.png)
 
 ## CÓMO HABLAR CON TU EQUIPO EN SLACK
 
@@ -38,11 +38,8 @@ En Slack hay diferentes formas de mencionar a una persona, grupo o canal. Según
 >Cuando un usuario es mencionado Slack le envía una notificación y puedes ver el número de menciones encerrado en un recuadro al lado del canal, grupo o usuario de mensaje directo correspondiente.
 
 * __Menciones especiales:__ En un canal o grupo puedes usar las menciones especiales para determinados anuncios: <br /><br />
-  ***@channel* envía una notificación a todos los miembros en el canal en el que lo uses**. <br /><br />
-  ***@everyone* envía una notificación a todos los miembros del equipo**. <br />
-  Normalmente se usan en canales públicos como el #general. <br /><br />
-  ***@here* envía una notificación a todos los miembros que estén en línea en el canal en el que lo uses**. 
-  
+![MensionesEspeciales](/imagenes/MensionesEspeciales.png)
+ 
  >Cuando estas menciones se usan de manera inadecuada pueden ser molestas, por lo que si eres administrador del grupo en Slack, podrás limitar su uso.
 
 ## OPERACIONES BÁSICAS PARA COLABORAR EN SLACK
