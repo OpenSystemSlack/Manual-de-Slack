@@ -57,4 +57,39 @@ En Slack hay diferentes formas de mencionar a una persona, grupo o canal. Según
 
 * __Integraciones:__ Slack puede integrarse con muchas otras herramientas como Google Drive, Dropbox, Trello, Mailchimp, Toky y muchas otras que puedes explorar para ver cuál le sirve más a tu equipo.
 
+## Comandos de barra diagonal
+En Slack, los comandos de barra diagonal funcionan como atajos para realizar acciones concretas. Solo tienes que escribir un comando de barra diagonal en la casilla de entrada de mensajes para completar la tarea que quieras en un sencillo paso.
+
+Escribe una "**/**" barra diagonal en cualquier canal o mensaje directo para ver una lista completa de los comandos de barra diagonal disponibles, incluso los comandos personalizados que haya creado tu equipo.
+![Comandos](/imagenes/comandos1.png)
+## Lista de comandos de barra diagonal
+
+__/mí [tu texto]:__	Muestra un texto de acción en cursiva, por ej. "/mí Hola a todos" muestra "*Hola a todos*".<br /><br />
+__/msj (o /enviar-md) @alguien [tu mensaje]:__ 	Envía un mensaje directo privado a otro miembro<br /><br />
+__/encoger_hombros [tu mensaje]:__ 	Añade ¯\_(ツ)_/¯ al final de tu mensaje <br /><br />
+__/archivar:__	Archiva ese canal<br /><br />
+__/reducir:__	Reduce todas las imágenes y vídeos incorporados a ese canal (opuesto a /expandir)<br /><br />
+__/expandir:__	Expande todas las imágenes y vídeos incorporados a ese canal (opuesto a /reducir)<br /><br />
+__/invitar @alguien [#canal]:__	Invita a un miembro a un canal<br /><br />
+__/unirse [#canal]:__	Abre un canal del que te conviertes en miembro<br /><br />
+__/quitar-a (o /eliminar) @alguien:__	Elimina a un miembro del canal actual. Puede que esta acción esté restringida a propietarios o administradores del espacio de trabajo.<br /><br />
+__/salur (o /cerrar o /abandonar):__	Abandonar un canal<br /><br />
+__/ausente:__	Cambia tu estado a "ausente"<br /><br />
+__/silenciar:__	Desactiva las notificaciones de un canal (o vuelve a activarlas si están desactivadas)<br /><br />
+__/abrir [#canal]:__	Abre un canal<br /><br />
+__/renombrar [nombre nuevo]:__	Cambia el nombre de un canal (solo para administradores)<br /><br />
+__/tema [texto]:__	Determina el tema de un canal<br /><br />
+__/quiénes:__	Muestra una lista de los miembros del canal actual<br /><br />
+__/recordar [@alguien o #canal] [qué] [cuándo]:__	Configura un recordatorio para un miembro o un canal<br /><br />
+__/recordar ayuda:__	Obtener más información sobre cómo fijar recordatorios<br /><br />
+__/recordar lista:__ Muestra una lista de los recordatorios que has creado<br /><br />
+__/aplicaciones:__	Buscar aplicaciones de Slack en el Directorio de Aplicaciones <br /> <br />
+__/buscar [tu texto]:__ 	Busca en los mensajes y archivos de Slack <br /><br />
+__/no-molestar [una hora]:__ 	Inicia o finaliza una sesión en modo no molestar <br /><br />
+__/feed ayuda [o subscribir, lista, retirar]:__ 	Gestiona tus suscripciones RSS <br /><br />
+__/sugerencias [tu texto]:__ 	Envía tus comentarios a Slack <br /><br />
+__/prefs:__ 	Abre tus preferencias<br /><br />
+__/atajos:__ 	Abre el cuadro de diálogo de atajos de teclado <br /><br />
+__/favoritos:__ 	Añade el canal o la conversación actual a favoritos <br /><br />
+
 
